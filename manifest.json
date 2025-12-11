@@ -1,11 +1,11 @@
 {
-    "name": "Akhil Raj",
-    "short_name": "Akhil Raj",
+    "name": "portfolio",
+    "short_name": "portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Akhil Raj - Senior Flutter Developer Portfolio",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
